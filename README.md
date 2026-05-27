@@ -27,7 +27,25 @@
 ---
 
 ## 🌱 Currently Learning
-- 🌐 Frontend Development (HTML, CSS, JavaScript)  
+- 🌐 Frontend Development (HTML, CSS, JavaScript)
+
+## ⚡ Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+### ⚙️ Backend (Learning)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+
+### 🗄️ Database (Learning)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 - 💻 Data Structures & Algorithms (C++)  
 - ⚙️ Git & GitHub  
 - 🔜 Backend Development (Node.js)  
