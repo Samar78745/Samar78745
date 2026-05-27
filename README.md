@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Samar78745/Samar787<h1 align="center">Hi 👋, I'm Samar Singh</h1>
 <h3 align="center<h1 align="center">Hi 👋, I'm Samar Singh</h1>
 <h3 align="center">🌱 Beginner Developer | 💻 C++ DSA | 🌐 Web Development</h3>
@@ -147,4 +147,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
