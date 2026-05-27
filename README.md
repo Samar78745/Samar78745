@@ -5,7 +5,7 @@
 <h3 align="center<h1 align="center">Hi 👋, I'm Samar Singh</h1>
 <h3 align="center">🌱 Beginner Developer | 💻 C++ DSA | 🌐 Web Development</h3>
 
-<p align="center">
+<p align="center">l
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Web+Development;Practicing+C%2B%2B+DSA;Building+Projects🚀">
 </p>
 
