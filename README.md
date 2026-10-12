@@ -100,7 +100,7 @@
 
 ## 🎯 Goals (2026)
 - [ ] Solve 200+ DSA problems in C++
-- [ ] Build 5+ projects (including 2 full stack MERN apps)
+- [ ] Build 5+ projects
 - [ ] Make my first open source contribution
 - [ ] Learn backend development (Node.js, Express, MongoDB)
 - [ ] Deploy at least 3 projects live
