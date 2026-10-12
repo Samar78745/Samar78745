@@ -18,7 +18,7 @@
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🧠 About Me
-- 🎓 Student from Jamshedpur, Jharkhand, India
+- 🎓 Student from Dhanbad, Jharkhand, India
 - 🌐 Learning **Full Stack Web Development** (Frontend + Backend + Database)
 - 💻 Solving **DSA problems in C++**
 - 🛠️ Building projects with the **MERN stack**
