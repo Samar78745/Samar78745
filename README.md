@@ -6,11 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samar78745&label=Profile+Views&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/Samar78745?style=flat&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Samar78745&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+  <a href="https://github.com/Samar78745?tab=followers">
+    <img src="https://img.shields.io/github/followers/Samar78745?label=Followers&style=for-the-badge&logo=github&color=00F7FF&cacheSeconds=300" />
+  </a>
+  <a href="https://github.com/Samar78745">
+    <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -109,11 +112,10 @@
   <a href="https://github.com/Samar78745">
     <img src="https://img.shields.io/badge/GitHub-Samar78745-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
 </p>
 
 <p align="center">
   <i>⭐ Learning in public, one commit at a time!</i>
-</p> 
+</p>
 
 
